@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.exe.config
+C:\Users\yigit\source\repos\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.exe
+C:\Users\yigit\source\repos\Mayin Tarlasi\Mayin Tarlasi\bin\Debug\Mayin Tarlasi.pdb
+C:\Users\yigit\source\repos\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.exe
+C:\Users\yigit\source\repos\Mayin Tarlasi\Mayin Tarlasi\obj\Debug\Mayin Tarlasi.pdb
